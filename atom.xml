@@ -3,11 +3,11 @@
   <title>Hua Chenyu - Unofficial Website</title>
   
   
-  <link href="https://hcy.asia/eng/atom.xml" rel="self"/>
+  <link href="https://eng.hcy.asia/atom.xml" rel="self"/>
   
-  <link href="https://hcy.asia/eng/"/>
+  <link href="https://eng.hcy.asia/"/>
   <updated>2023-10-13T03:22:34.348Z</updated>
-  <id>https://hcy.asia/eng/</id>
+  <id>https://eng.hcy.asia/</id>
   
   <author>
     <name>HUAFansubs</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>全音楽作品のデータ（ニューアルバム「希忘Hope」）</title>
-    <link href="https://hcy.asia/eng/allmusicdata/"/>
-    <id>https://hcy.asia/eng/allmusicdata/</id>
+    <link href="https://eng.hcy.asia/allmusicdata/"/>
+    <id>https://eng.hcy.asia/allmusicdata/</id>
     <published>2120-09-18T16:00:00.000Z</published>
     <updated>2023-10-13T03:22:34.348Z</updated>
     
@@ -30,15 +30,15 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
   </entry>
   
   <entry>
     <title>華晨宇</title>
-    <link href="https://hcy.asia/eng/hcy-bio/"/>
-    <id>https://hcy.asia/eng/hcy-bio/</id>
+    <link href="https://eng.hcy.asia/hcy-bio/"/>
+    <id>https://eng.hcy.asia/hcy-bio/</id>
     <published>2120-09-17T16:00:00.000Z</published>
     <updated>2023-10-13T02:48:24.505Z</updated>
     
@@ -50,15 +50,15 @@
     
     
     
-    <category term="①Profile" scheme="https://hcy.asia/eng/categories/hcy/"/>
+    <category term="①Profile" scheme="https://eng.hcy.asia/categories/hcy/"/>
     
     
   </entry>
   
   <entry>
     <title>Magazine（2023年10月更新）</title>
-    <link href="https://hcy.asia/eng/magazine20/"/>
-    <id>https://hcy.asia/eng/magazine20/</id>
+    <link href="https://eng.hcy.asia/magazine20/"/>
+    <id>https://eng.hcy.asia/magazine20/</id>
     <published>2023-10-09T16:00:00.000Z</published>
     <updated>2023-10-13T02:48:24.515Z</updated>
     
@@ -72,21 +72,21 @@
     
     
     
-    <category term="⑥Commercial" scheme="https://hcy.asia/eng/categories/commercial/"/>
+    <category term="⑥Commercial" scheme="https://eng.hcy.asia/categories/commercial/"/>
     
-    <category term="₁Magazine" scheme="https://hcy.asia/eng/categories/commercial/magazine/"/>
+    <category term="₁Magazine" scheme="https://eng.hcy.asia/categories/commercial/magazine/"/>
     
     
-    <category term="NEWS" scheme="https://hcy.asia/eng/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
     
-    <category term="Magazine" scheme="https://hcy.asia/eng/tags/magazine/"/>
+    <category term="Magazine" scheme="https://eng.hcy.asia/tags/magazine/"/>
     
   </entry>
   
   <entry>
     <title>風の海（风之海）</title>
-    <link href="https://hcy.asia/eng/kazenoumi/"/>
-    <id>https://hcy.asia/eng/kazenoumi/</id>
+    <link href="https://eng.hcy.asia/kazenoumi/"/>
+    <id>https://eng.hcy.asia/kazenoumi/</id>
     <published>2023-09-28T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.481Z</updated>
     
@@ -97,21 +97,21 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://hcy.asia/eng/tags/compose/"/>
+    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
   </entry>
   
   <entry>
     <title>「火星演唱会 MARS CONCERT」一覧</title>
-    <link href="https://hcy.asia/eng/marsconcert/"/>
-    <id>https://hcy.asia/eng/marsconcert/</id>
+    <link href="https://eng.hcy.asia/marsconcert/"/>
+    <id>https://eng.hcy.asia/marsconcert/</id>
     <published>2023-09-27T11:30:00.000Z</published>
     <updated>2023-10-13T02:41:50.268Z</updated>
     
@@ -123,19 +123,19 @@
     
     
     
-    <category term="③Live" scheme="https://hcy.asia/eng/categories/live/"/>
+    <category term="③Live" scheme="https://eng.hcy.asia/categories/live/"/>
     
-    <category term="₁Mars Concert" scheme="https://hcy.asia/eng/categories/live/marsconcert/"/>
+    <category term="₁Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/eng/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>火星演唱会 MARS CONCERT 2023（下半期）</title>
-    <link href="https://hcy.asia/eng/marsconcert2023-2/"/>
-    <id>https://hcy.asia/eng/marsconcert2023-2/</id>
+    <link href="https://eng.hcy.asia/marsconcert2023-2/"/>
+    <id>https://eng.hcy.asia/marsconcert2023-2/</id>
     <published>2023-09-27T11:00:00.000Z</published>
     <updated>2023-10-13T02:41:50.314Z</updated>
     
@@ -169,19 +169,19 @@
     
     
     
-    <category term="③Live" scheme="https://hcy.asia/eng/categories/live/"/>
+    <category term="③Live" scheme="https://eng.hcy.asia/categories/live/"/>
     
-    <category term="₁Mars Concert" scheme="https://hcy.asia/eng/categories/live/marsconcert/"/>
+    <category term="₁Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/eng/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>Esports・スマホゲーム「和平精英（Game For Peace）」（2023年8月更新）</title>
-    <link href="https://hcy.asia/eng/esports-GFP/"/>
-    <id>https://hcy.asia/eng/esports-GFP/</id>
+    <link href="https://eng.hcy.asia/esports-GFP/"/>
+    <id>https://eng.hcy.asia/esports-GFP/</id>
     <published>2023-08-19T16:00:00.000Z</published>
     <updated>2023-10-13T02:41:03.721Z</updated>
     
@@ -192,21 +192,21 @@
     
     
     
-    <category term="⑥Commercial" scheme="https://hcy.asia/eng/categories/commercial/"/>
+    <category term="⑥Commercial" scheme="https://eng.hcy.asia/categories/commercial/"/>
     
-    <category term="₃Other" scheme="https://hcy.asia/eng/categories/commercial/othercommercial/"/>
+    <category term="₃Other" scheme="https://eng.hcy.asia/categories/commercial/othercommercial/"/>
     
     
-    <category term="Esports" scheme="https://hcy.asia/eng/tags/esports/"/>
+    <category term="Esports" scheme="https://eng.hcy.asia/tags/esports/"/>
     
-    <category term="NEWS" scheme="https://hcy.asia/eng/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>2023 イベント情報（8月21日更新）</title>
-    <link href="https://hcy.asia/eng/liveevent2023/"/>
-    <id>https://hcy.asia/eng/liveevent2023/</id>
+    <link href="https://eng.hcy.asia/liveevent2023/"/>
+    <id>https://eng.hcy.asia/liveevent2023/</id>
     <published>2023-08-19T16:00:00.000Z</published>
     <updated>2023-10-13T02:23:28.664Z</updated>
     
@@ -217,19 +217,19 @@
     
     
     
-    <category term="③Live" scheme="https://hcy.asia/eng/categories/live/"/>
+    <category term="③Live" scheme="https://eng.hcy.asia/categories/live/"/>
     
-    <category term="₂Events" scheme="https://hcy.asia/eng/categories/live/event/"/>
+    <category term="₂Events" scheme="https://eng.hcy.asia/categories/live/event/"/>
     
     
-    <category term="NEWS" scheme="https://hcy.asia/eng/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>絶境の戦神（绝境战神）</title>
-    <link href="https://hcy.asia/eng/cm-wargod/"/>
-    <id>https://hcy.asia/eng/cm-wargod/</id>
+    <link href="https://eng.hcy.asia/cm-wargod/"/>
+    <id>https://eng.hcy.asia/cm-wargod/</id>
     <published>2023-08-16T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.476Z</updated>
     
@@ -240,25 +240,25 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
-    <category term="⑥Commercial" scheme="https://hcy.asia/eng/categories/commercial/"/>
+    <category term="⑥Commercial" scheme="https://eng.hcy.asia/categories/commercial/"/>
     
-    <category term="₂CM" scheme="https://hcy.asia/eng/categories/commercial/cm/"/>
+    <category term="₂CM" scheme="https://eng.hcy.asia/categories/commercial/cm/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="CM" scheme="https://hcy.asia/eng/tags/CM/"/>
+    <category term="CM" scheme="https://eng.hcy.asia/tags/CM/"/>
     
-    <category term="Esports" scheme="https://hcy.asia/eng/tags/esports/"/>
+    <category term="Esports" scheme="https://eng.hcy.asia/tags/esports/"/>
     
   </entry>
   
   <entry>
     <title>火星演唱会 MARS CONCERT 2023（上半期終了）</title>
-    <link href="https://hcy.asia/eng/marsconcert2023-1/"/>
-    <id>https://hcy.asia/eng/marsconcert2023-1/</id>
+    <link href="https://eng.hcy.asia/marsconcert2023-1/"/>
+    <id>https://eng.hcy.asia/marsconcert2023-1/</id>
     <published>2023-07-16T16:00:00.000Z</published>
     <updated>2023-10-13T02:48:24.534Z</updated>
     
@@ -308,19 +308,19 @@
     
     
     
-    <category term="③Live" scheme="https://hcy.asia/eng/categories/live/"/>
+    <category term="③Live" scheme="https://eng.hcy.asia/categories/live/"/>
     
-    <category term="₁Mars Concert" scheme="https://hcy.asia/eng/categories/live/marsconcert/"/>
+    <category term="₁Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/eng/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>音楽競演番組「青年π計画（青年π计划）」</title>
-    <link href="https://hcy.asia/eng/projectpi/"/>
-    <id>https://hcy.asia/eng/projectpi/</id>
+    <link href="https://eng.hcy.asia/projectpi/"/>
+    <id>https://eng.hcy.asia/projectpi/</id>
     <published>2023-07-05T16:00:00.000Z</published>
     <updated>2023-10-13T02:48:24.559Z</updated>
     
@@ -331,19 +331,19 @@
     
     
     
-    <category term="④TV Show" scheme="https://hcy.asia/eng/categories/tvshow/"/>
+    <category term="④TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
     
-    <category term="₂Talent Shows" scheme="https://hcy.asia/eng/categories/tvshow/talent/"/>
+    <category term="₂Talent Shows" scheme="https://eng.hcy.asia/categories/tvshow/talent/"/>
     
     
-    <category term="Guest" scheme="https://hcy.asia/eng/tags/guest/"/>
+    <category term="Guest" scheme="https://eng.hcy.asia/tags/guest/"/>
     
   </entry>
   
   <entry>
     <title>音楽番組「Infinity and Beyond・寶島シーズン（声生不息・宝岛季）」</title>
-    <link href="https://hcy.asia/eng/ssbxtw/"/>
-    <id>https://hcy.asia/eng/ssbxtw/</id>
+    <link href="https://eng.hcy.asia/ssbxtw/"/>
+    <id>https://eng.hcy.asia/ssbxtw/</id>
     <published>2023-06-02T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.637Z</updated>
     
@@ -354,23 +354,23 @@
     
     
     
-    <category term="④TV Show" scheme="https://hcy.asia/eng/categories/tvshow/"/>
+    <category term="④TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
     
-    <category term="₁Music Shows" scheme="https://hcy.asia/eng/categories/tvshow/musicshow/"/>
+    <category term="₁Music Shows" scheme="https://eng.hcy.asia/categories/tvshow/musicshow/"/>
     
     
-    <category term="Collaborative songs" scheme="https://hcy.asia/eng/tags/featsong/"/>
+    <category term="Collaborative songs" scheme="https://eng.hcy.asia/tags/featsong/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://hcy.asia/eng/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>私に何か良いことが起こるでしょうか（美好的事可不可以发生在我身上/Lucky As You）</title>
-    <link href="https://hcy.asia/eng/ssbxtw-luckyasyou/"/>
-    <id>https://hcy.asia/eng/ssbxtw-luckyasyou/</id>
+    <link href="https://eng.hcy.asia/ssbxtw-luckyasyou/"/>
+    <id>https://eng.hcy.asia/ssbxtw-luckyasyou/</id>
     <published>2023-05-01T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.646Z</updated>
     
@@ -381,21 +381,21 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://hcy.asia/eng/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>阿里山の娘（阿里山的姑娘 AKA 高山青）</title>
-    <link href="https://hcy.asia/eng/next2-1-alishan/"/>
-    <id>https://hcy.asia/eng/next2-1-alishan/</id>
+    <link href="https://eng.hcy.asia/next2-1-alishan/"/>
+    <id>https://eng.hcy.asia/next2-1-alishan/</id>
     <published>2023-04-06T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.527Z</updated>
     
@@ -406,23 +406,23 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="The Next" scheme="https://hcy.asia/eng/tags/thenext/"/>
+    <category term="The Next" scheme="https://eng.hcy.asia/tags/thenext/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://hcy.asia/eng/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>音楽番組「Sing with Me（我想和你唱）」（S4-EP4を更新）</title>
-    <link href="https://hcy.asia/eng/singwithme/"/>
-    <id>https://hcy.asia/eng/singwithme/</id>
+    <link href="https://eng.hcy.asia/singwithme/"/>
+    <id>https://eng.hcy.asia/singwithme/</id>
     <published>2023-03-27T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.628Z</updated>
     
@@ -433,21 +433,21 @@
     
     
     
-    <category term="④TV Show" scheme="https://hcy.asia/eng/categories/tvshow/"/>
+    <category term="④TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
     
-    <category term="₁Music Shows" scheme="https://hcy.asia/eng/categories/tvshow/musicshow/"/>
+    <category term="₁Music Shows" scheme="https://eng.hcy.asia/categories/tvshow/musicshow/"/>
     
     
-    <category term="Collaborative songs" scheme="https://hcy.asia/eng/tags/featsong/"/>
+    <category term="Collaborative songs" scheme="https://eng.hcy.asia/tags/featsong/"/>
     
-    <category term="Sing with Me" scheme="https://hcy.asia/eng/tags/singwithme/"/>
+    <category term="Sing with Me" scheme="https://eng.hcy.asia/tags/singwithme/"/>
     
   </entry>
   
   <entry>
     <title>舞嬢（舞娘）</title>
-    <link href="https://hcy.asia/eng/ssbxtw-dancingsiren/"/>
-    <id>https://hcy.asia/eng/ssbxtw-dancingsiren/</id>
+    <link href="https://eng.hcy.asia/ssbxtw-dancingsiren/"/>
+    <id>https://eng.hcy.asia/ssbxtw-dancingsiren/</id>
     <published>2023-03-22T16:00:00.000Z</published>
     <updated>2023-10-13T02:46:20.641Z</updated>
     
@@ -458,23 +458,23 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Collaborative songs" scheme="https://hcy.asia/eng/tags/featsong/"/>
+    <category term="Collaborative songs" scheme="https://eng.hcy.asia/tags/featsong/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://hcy.asia/eng/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>バラエティ番組「ハロー、土曜日（你好，星期六）」</title>
-    <link href="https://hcy.asia/eng/variety-hellosaturday/"/>
-    <id>https://hcy.asia/eng/variety-hellosaturday/</id>
+    <link href="https://eng.hcy.asia/variety-hellosaturday/"/>
+    <id>https://eng.hcy.asia/variety-hellosaturday/</id>
     <published>2023-02-17T16:00:00.000Z</published>
     <updated>2023-10-13T02:43:20.642Z</updated>
     
@@ -485,19 +485,19 @@
     
     
     
-    <category term="④TV Show" scheme="https://hcy.asia/eng/categories/tvshow/"/>
+    <category term="④TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
     
-    <category term="₃Variety Shows" scheme="https://hcy.asia/eng/categories/tvshow/entertainment/"/>
+    <category term="₃Variety Shows" scheme="https://eng.hcy.asia/categories/tvshow/entertainment/"/>
     
     
-    <category term="Guest" scheme="https://hcy.asia/eng/tags/guest/"/>
+    <category term="Guest" scheme="https://eng.hcy.asia/tags/guest/"/>
     
   </entry>
   
   <entry>
     <title>幻さと現実（虚幻与现实）</title>
-    <link href="https://hcy.asia/eng/05-11-fantasyreality/"/>
-    <id>https://hcy.asia/eng/05-11-fantasyreality/</id>
+    <link href="https://eng.hcy.asia/05-11-fantasyreality/"/>
+    <id>https://eng.hcy.asia/05-11-fantasyreality/</id>
     <published>2023-01-19T06:07:00.000Z</published>
     <updated>2023-10-13T02:46:20.421Z</updated>
     
@@ -508,23 +508,23 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://hcy.asia/eng/tags/compose/"/>
+    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="album05-Hope Forgets" scheme="https://hcy.asia/eng/tags/album05/"/>
+    <category term="album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>全世界が私を忘れた時 （当全世界忘了我）</title>
-    <link href="https://hcy.asia/eng/05-10-forgetme/"/>
-    <id>https://hcy.asia/eng/05-10-forgetme/</id>
+    <link href="https://eng.hcy.asia/05-10-forgetme/"/>
+    <id>https://eng.hcy.asia/05-10-forgetme/</id>
     <published>2023-01-14T06:07:00.000Z</published>
     <updated>2023-10-13T02:46:20.416Z</updated>
     
@@ -535,23 +535,23 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://hcy.asia/eng/tags/compose/"/>
+    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="album05-Hope Forgets" scheme="https://hcy.asia/eng/tags/album05/"/>
+    <category term="album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>太陽に向かって生きる（向阳而生）</title>
-    <link href="https://hcy.asia/eng/05-08-sunshine/"/>
-    <id>https://hcy.asia/eng/05-08-sunshine/</id>
+    <link href="https://eng.hcy.asia/05-08-sunshine/"/>
+    <id>https://eng.hcy.asia/05-08-sunshine/</id>
     <published>2023-01-09T06:07:00.000Z</published>
     <updated>2023-10-13T03:22:34.343Z</updated>
     
@@ -562,18 +562,18 @@
     
     
     
-    <category term="②Music Works" scheme="https://hcy.asia/eng/categories/music/"/>
+    <category term="②Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://hcy.asia/eng/tags/compose/"/>
+    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
     
-    <category term="MV" scheme="https://hcy.asia/eng/tags/MV/"/>
+    <category term="MV" scheme="https://eng.hcy.asia/tags/MV/"/>
     
-    <category term="Lyrics Translation" scheme="https://hcy.asia/eng/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://hcy.asia/eng/tags/arrange/"/>
+    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
     
-    <category term="album05-Hope Forgets" scheme="https://hcy.asia/eng/tags/album05/"/>
+    <category term="album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
     
   </entry>
   
