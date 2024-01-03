@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eng.hcy.asia/actor-documentary-workingdiary/</loc>
+    
+    <lastmod>2024-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eng.hcy.asia/liveevent2024/</loc>
     
     <lastmod>2024-01-03</lastmod>
@@ -629,6 +638,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://eng.hcy.asia/tags/documentary/</loc>
+    <lastmod>2024-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -696,6 +712,13 @@
   
   <url>
     <loc>https://eng.hcy.asia/categories/tvshow/entertainment/</loc>
+    <lastmod>2024-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/categories/actor/</loc>
     <lastmod>2024-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
