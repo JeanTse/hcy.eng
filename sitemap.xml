@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://eng.hcy.asia/flowertrip/</loc>
+    <loc>https://eng.hcy.asia/hcy-148/</loc>
     
     <lastmod>2024-01-04</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://eng.hcy.asia/tripandsing/</loc>
+    
+    <lastmod>2024-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/flowertrip/</loc>
     
     <lastmod>2024-01-04</lastmod>
     
