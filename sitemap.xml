@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eng.hcy.asia/mrzz3/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/hcy-148/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eng.hcy.asia/02-01-care/</loc>
     
     <lastmod>2024-01-18</lastmod>
@@ -228,15 +246,6 @@
   
   <url>
     <loc>https://eng.hcy.asia/marsconcert/</loc>
-    
-    <lastmod>2024-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/hcy-148/</loc>
     
     <lastmod>2024-01-16</lastmod>
     
@@ -1036,6 +1045,13 @@
   
   <url>
     <loc>https://eng.hcy.asia/tags/guest/</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/tags/mrzz/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
