@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eng.hcy.asia/hoshiasia/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/2013boy/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/next2/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/next1/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/singer2020/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/singer2018/</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eng.hcy.asia/02-11-giant/</loc>
     
     <lastmod>2024-01-18</lastmod>
@@ -155,15 +209,6 @@
   </url>
   
   <url>
-    <loc>https://eng.hcy.asia/next1/</loc>
-    
-    <lastmod>2024-01-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eng.hcy.asia/singer-notlast/</loc>
     
     <lastmod>2024-01-16</lastmod>
@@ -255,15 +300,6 @@
   
   <url>
     <loc>https://eng.hcy.asia/banshengyuan/</loc>
-    
-    <lastmod>2024-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/next2/</loc>
     
     <lastmod>2024-01-16</lastmod>
     
@@ -399,24 +435,6 @@
   
   <url>
     <loc>https://eng.hcy.asia/tripandsing/</loc>
-    
-    <lastmod>2024-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/singer2020/</loc>
-    
-    <lastmod>2024-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/liveevent2024-W122XYL190112/</loc>
     
     <lastmod>2024-01-15</lastmod>
     
@@ -695,27 +713,9 @@
   </url>
   
   <url>
-    <loc>https://eng.hcy.asia/2013boy/</loc>
-    
-    <lastmod>2023-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eng.hcy.asia/01-07-allalone/</loc>
     
     <lastmod>2023-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/singer2018/</loc>
-    
-    <lastmod>2023-12-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1122,6 +1122,13 @@
   
   <url>
     <loc>https://eng.hcy.asia/categories/tvshow/entertainment/</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/categories/tvshow/talent/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
