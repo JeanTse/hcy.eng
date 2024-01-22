@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eng.hcy.asia/flowerboy/</loc>
+    
+    <lastmod>2024-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/01-09-quasimodo/</loc>
+    
+    <lastmod>2024-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/tripandsing/</loc>
+    
+    <lastmod>2024-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eng.hcy.asia/variety-ajiwithnico/</loc>
     
     <lastmod>2024-01-22</lastmod>
@@ -578,15 +605,6 @@
   </url>
   
   <url>
-    <loc>https://eng.hcy.asia/tripandsing/</loc>
-    
-    <lastmod>2024-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eng.hcy.asia/liveevent2023/</loc>
     
     <lastmod>2024-01-15</lastmod>
@@ -786,15 +804,6 @@
   
   <url>
     <loc>https://eng.hcy.asia/01-10-pillow/</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/01-09-quasimodo/</loc>
     
     <lastmod>2023-12-18</lastmod>
     
