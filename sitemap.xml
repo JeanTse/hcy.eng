@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eng.hcy.asia/singer-wildcontra/</loc>
+    
+    <lastmod>2024-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/04-08-newworld/</loc>
+    
+    <lastmod>2024-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eng.hcy.asia/next1-7-dasheng/</loc>
+    
+    <lastmod>2024-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eng.hcy.asia/singer-shout/</loc>
     
     <lastmod>2024-01-24</lastmod>
@@ -650,15 +677,6 @@
   </url>
   
   <url>
-    <loc>https://eng.hcy.asia/04-08-newworld/</loc>
-    
-    <lastmod>2024-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eng.hcy.asia/04-07-arrival/</loc>
     
     <lastmod>2024-01-16</lastmod>
@@ -896,15 +914,6 @@
     <loc>https://eng.hcy.asia/marsconcert2023-1/</loc>
     
     <lastmod>2024-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eng.hcy.asia/next1-7-dasheng/</loc>
-    
-    <lastmod>2023-12-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
