@@ -3,11 +3,11 @@
   <title>Hua Chenyu - Unofficial Website</title>
   
   
-  <link href="https://eng.hcy.asia/atom.xml" rel="self"/>
+  <link href="https://huachenyu.news/atom.xml" rel="self"/>
   
-  <link href="https://eng.hcy.asia/"/>
+  <link href="https://huachenyu.news/"/>
   <updated>2024-01-22T02:27:46.645Z</updated>
-  <id>https://eng.hcy.asia/</id>
+  <id>https://huachenyu.news/</id>
   
   <author>
     <name>HUAFansubs</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Discography (2023 Mars Concert Speciel)</title>
-    <link href="https://eng.hcy.asia/allmusicdata/"/>
-    <id>https://eng.hcy.asia/allmusicdata/</id>
+    <link href="https://huachenyu.news/allmusicdata/"/>
+    <id>https://huachenyu.news/allmusicdata/</id>
     <published>2120-09-18T16:00:00.000Z</published>
     <updated>2024-01-22T02:27:46.645Z</updated>
     
@@ -30,15 +30,15 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
   </entry>
   
   <entry>
     <title>Biography</title>
-    <link href="https://eng.hcy.asia/hcy-bio/"/>
-    <id>https://eng.hcy.asia/hcy-bio/</id>
+    <link href="https://huachenyu.news/hcy-bio/"/>
+    <id>https://huachenyu.news/hcy-bio/</id>
     <published>2120-09-17T16:00:00.000Z</published>
     <updated>2024-01-15T09:15:40.230Z</updated>
     
@@ -51,15 +51,15 @@
     
     
     
-    <category term="① Profile" scheme="https://eng.hcy.asia/categories/hcy/"/>
+    <category term="① Profile" scheme="https://huachenyu.news/categories/hcy/"/>
     
     
   </entry>
   
   <entry>
     <title>2024 Event information (Updated on 13 January, 2024)</title>
-    <link href="https://eng.hcy.asia/liveevent2024/"/>
-    <id>https://eng.hcy.asia/liveevent2024/</id>
+    <link href="https://huachenyu.news/liveevent2024/"/>
+    <id>https://huachenyu.news/liveevent2024/</id>
     <published>2024-01-12T16:00:00.000Z</published>
     <updated>2024-01-17T09:08:18.204Z</updated>
     
@@ -70,19 +70,19 @@
     
     
     
-    <category term="③ Live" scheme="https://eng.hcy.asia/categories/live/"/>
+    <category term="③ Live" scheme="https://huachenyu.news/categories/live/"/>
     
-    <category term="₂ Events" scheme="https://eng.hcy.asia/categories/live/event/"/>
+    <category term="₂ Events" scheme="https://huachenyu.news/categories/live/event/"/>
     
     
-    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://huachenyu.news/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>&quot;火星演唱会 MARS CONCERT&quot; list</title>
-    <link href="https://eng.hcy.asia/marsconcert/"/>
-    <id>https://eng.hcy.asia/marsconcert/</id>
+    <link href="https://huachenyu.news/marsconcert/"/>
+    <id>https://huachenyu.news/marsconcert/</id>
     <published>2023-12-03T10:30:00.000Z</published>
     <updated>2024-01-23T07:34:42.888Z</updated>
     
@@ -94,19 +94,19 @@
     
     
     
-    <category term="③ Live" scheme="https://eng.hcy.asia/categories/live/"/>
+    <category term="③ Live" scheme="https://huachenyu.news/categories/live/"/>
     
-    <category term="₁ Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁ Mars Concert" scheme="https://huachenyu.news/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://huachenyu.news/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>MARS CONCERT 2023 (Second half)</title>
-    <link href="https://eng.hcy.asia/marsconcert2023-2/"/>
-    <id>https://eng.hcy.asia/marsconcert2023-2/</id>
+    <link href="https://huachenyu.news/marsconcert2023-2/"/>
+    <id>https://huachenyu.news/marsconcert2023-2/</id>
     <published>2023-12-03T10:30:00.000Z</published>
     <updated>2023-12-29T07:44:25.178Z</updated>
     
@@ -150,19 +150,19 @@
     
     
     
-    <category term="③ Live" scheme="https://eng.hcy.asia/categories/live/"/>
+    <category term="③ Live" scheme="https://huachenyu.news/categories/live/"/>
     
-    <category term="₁ Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁ Mars Concert" scheme="https://huachenyu.news/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://huachenyu.news/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>Extraordinary Ordinary Life (普通到不普通的人生)</title>
-    <link href="https://eng.hcy.asia/ordinary/"/>
-    <id>https://eng.hcy.asia/ordinary/</id>
+    <link href="https://huachenyu.news/ordinary/"/>
+    <id>https://huachenyu.news/ordinary/</id>
     <published>2023-12-02T16:00:00.000Z</published>
     <updated>2024-01-15T06:31:09.937Z</updated>
     
@@ -173,19 +173,19 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
   </entry>
   
   <entry>
     <title>eSports - mobile game &quot;Game For Peace&quot; (Updated on Nov. in 2023)</title>
-    <link href="https://eng.hcy.asia/esports-GFP/"/>
-    <id>https://eng.hcy.asia/esports-GFP/</id>
+    <link href="https://huachenyu.news/esports-GFP/"/>
+    <id>https://huachenyu.news/esports-GFP/</id>
     <published>2023-11-16T16:00:00.000Z</published>
     <updated>2024-01-17T08:24:47.556Z</updated>
     
@@ -196,21 +196,21 @@
     
     
     
-    <category term="⑥ Commercial" scheme="https://eng.hcy.asia/categories/commercial/"/>
+    <category term="⑥ Commercial" scheme="https://huachenyu.news/categories/commercial/"/>
     
-    <category term="₃ Other" scheme="https://eng.hcy.asia/categories/commercial/othercommercial/"/>
+    <category term="₃ Other" scheme="https://huachenyu.news/categories/commercial/othercommercial/"/>
     
     
-    <category term="eSports" scheme="https://eng.hcy.asia/tags/esports/"/>
+    <category term="eSports" scheme="https://huachenyu.news/tags/esports/"/>
     
-    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://huachenyu.news/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>2023 Event information</title>
-    <link href="https://eng.hcy.asia/liveevent2023/"/>
-    <id>https://eng.hcy.asia/liveevent2023/</id>
+    <link href="https://huachenyu.news/liveevent2023/"/>
+    <id>https://huachenyu.news/liveevent2023/</id>
     <published>2023-11-12T16:00:00.000Z</published>
     <updated>2024-01-15T09:15:40.236Z</updated>
     
@@ -221,19 +221,19 @@
     
     
     
-    <category term="③ Live" scheme="https://eng.hcy.asia/categories/live/"/>
+    <category term="③ Live" scheme="https://huachenyu.news/categories/live/"/>
     
-    <category term="₂ Events" scheme="https://eng.hcy.asia/categories/live/event/"/>
+    <category term="₂ Events" scheme="https://huachenyu.news/categories/live/event/"/>
     
     
-    <category term="NEWS" scheme="https://eng.hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://huachenyu.news/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>Sea of Wind (风之海)</title>
-    <link href="https://eng.hcy.asia/kazenoumi/"/>
-    <id>https://eng.hcy.asia/kazenoumi/</id>
+    <link href="https://huachenyu.news/kazenoumi/"/>
+    <id>https://huachenyu.news/kazenoumi/</id>
     <published>2023-09-28T16:00:00.000Z</published>
     <updated>2024-01-15T06:29:56.128Z</updated>
     
@@ -244,21 +244,21 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
   </entry>
   
   <entry>
     <title>MARS CONCERT 2023 (First half)</title>
-    <link href="https://eng.hcy.asia/marsconcert2023-1/"/>
-    <id>https://eng.hcy.asia/marsconcert2023-1/</id>
+    <link href="https://huachenyu.news/marsconcert2023-1/"/>
+    <id>https://huachenyu.news/marsconcert2023-1/</id>
     <published>2023-07-16T16:00:00.000Z</published>
     <updated>2024-01-02T09:31:35.655Z</updated>
     
@@ -302,19 +302,19 @@
     
     
     
-    <category term="③ Live" scheme="https://eng.hcy.asia/categories/live/"/>
+    <category term="③ Live" scheme="https://huachenyu.news/categories/live/"/>
     
-    <category term="₁ Mars Concert" scheme="https://eng.hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁ Mars Concert" scheme="https://huachenyu.news/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://eng.hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://huachenyu.news/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>&quot;Youth π Plan (青年π计划)&quot; - Singing Competition</title>
-    <link href="https://eng.hcy.asia/projectpi/"/>
-    <id>https://eng.hcy.asia/projectpi/</id>
+    <link href="https://huachenyu.news/projectpi/"/>
+    <id>https://huachenyu.news/projectpi/</id>
     <published>2023-07-05T16:00:00.000Z</published>
     <updated>2024-01-19T02:50:43.757Z</updated>
     
@@ -325,19 +325,19 @@
     
     
     
-    <category term="④ TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
+    <category term="④ TV Show" scheme="https://huachenyu.news/categories/tvshow/"/>
     
-    <category term="₂ As a Mentor" scheme="https://eng.hcy.asia/categories/tvshow/talent/"/>
+    <category term="₂ As a Mentor" scheme="https://huachenyu.news/categories/tvshow/talent/"/>
     
     
-    <category term="Guest" scheme="https://eng.hcy.asia/tags/guest/"/>
+    <category term="Guest" scheme="https://huachenyu.news/tags/guest/"/>
     
   </entry>
   
   <entry>
     <title>&quot;Infinity and Beyond 2023&quot; (声生不息宝岛季)</title>
-    <link href="https://eng.hcy.asia/ssbxtw/"/>
-    <id>https://eng.hcy.asia/ssbxtw/</id>
+    <link href="https://huachenyu.news/ssbxtw/"/>
+    <id>https://huachenyu.news/ssbxtw/</id>
     <published>2023-06-02T16:00:00.000Z</published>
     <updated>2024-01-22T07:10:38.308Z</updated>
     
@@ -348,23 +348,23 @@
     
     
     
-    <category term="④ TV Show" scheme="https://eng.hcy.asia/categories/tvshow/"/>
+    <category term="④ TV Show" scheme="https://huachenyu.news/categories/tvshow/"/>
     
-    <category term="₁ Music Shows" scheme="https://eng.hcy.asia/categories/tvshow/musicshow/"/>
+    <category term="₁ Music Shows" scheme="https://huachenyu.news/categories/tvshow/musicshow/"/>
     
     
-    <category term="Collaborative songs" scheme="https://eng.hcy.asia/tags/featsong/"/>
+    <category term="Collaborative songs" scheme="https://huachenyu.news/tags/featsong/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://huachenyu.news/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>Lucky as You (美好的事可不可以发生在我身上)</title>
-    <link href="https://eng.hcy.asia/ssbxtw-luckyasyou/"/>
-    <id>https://eng.hcy.asia/ssbxtw-luckyasyou/</id>
+    <link href="https://huachenyu.news/ssbxtw-luckyasyou/"/>
+    <id>https://huachenyu.news/ssbxtw-luckyasyou/</id>
     <published>2023-05-01T16:00:00.000Z</published>
     <updated>2024-01-22T06:55:52.779Z</updated>
     
@@ -375,21 +375,21 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://huachenyu.news/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>Dancing Siren (舞娘)</title>
-    <link href="https://eng.hcy.asia/ssbxtw-dancingsiren/"/>
-    <id>https://eng.hcy.asia/ssbxtw-dancingsiren/</id>
+    <link href="https://huachenyu.news/ssbxtw-dancingsiren/"/>
+    <id>https://huachenyu.news/ssbxtw-dancingsiren/</id>
     <published>2023-03-22T16:00:00.000Z</published>
     <updated>2024-01-22T09:24:44.508Z</updated>
     
@@ -400,23 +400,23 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Collaborative songs" scheme="https://eng.hcy.asia/tags/featsong/"/>
+    <category term="Collaborative songs" scheme="https://huachenyu.news/tags/featsong/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Infinity and Beyond" scheme="https://eng.hcy.asia/tags/ssbx/"/>
+    <category term="Infinity and Beyond" scheme="https://huachenyu.news/tags/ssbx/"/>
     
   </entry>
   
   <entry>
     <title>Illusion and Reality (虚幻与现实)</title>
-    <link href="https://eng.hcy.asia/05-11-fantasyreality/"/>
-    <id>https://eng.hcy.asia/05-11-fantasyreality/</id>
+    <link href="https://huachenyu.news/05-11-fantasyreality/"/>
+    <id>https://huachenyu.news/05-11-fantasyreality/</id>
     <published>2023-01-19T06:07:00.000Z</published>
     <updated>2024-01-17T08:26:51.160Z</updated>
     
@@ -427,23 +427,23 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>When the World Forgets Me  (当全世界忘了我)</title>
-    <link href="https://eng.hcy.asia/05-10-forgetme/"/>
-    <id>https://eng.hcy.asia/05-10-forgetme/</id>
+    <link href="https://huachenyu.news/05-10-forgetme/"/>
+    <id>https://huachenyu.news/05-10-forgetme/</id>
     <published>2023-01-14T06:07:00.000Z</published>
     <updated>2024-01-17T08:27:04.102Z</updated>
     
@@ -454,23 +454,23 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>Growing Toward the Sun (向阳而生)</title>
-    <link href="https://eng.hcy.asia/05-08-sunshine/"/>
-    <id>https://eng.hcy.asia/05-08-sunshine/</id>
+    <link href="https://huachenyu.news/05-08-sunshine/"/>
+    <id>https://huachenyu.news/05-08-sunshine/</id>
     <published>2023-01-09T06:07:00.000Z</published>
     <updated>2024-01-17T08:30:36.754Z</updated>
     
@@ -481,25 +481,25 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="MV" scheme="https://eng.hcy.asia/tags/MV/"/>
+    <category term="MV" scheme="https://huachenyu.news/tags/MV/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>Light Up the Bonfire at the Galaxy&#39;s End (点燃银河尽头的篝火)</title>
-    <link href="https://eng.hcy.asia/05-09-milkyway/"/>
-    <id>https://eng.hcy.asia/05-09-milkyway/</id>
+    <link href="https://huachenyu.news/05-09-milkyway/"/>
+    <id>https://huachenyu.news/05-09-milkyway/</id>
     <published>2023-01-01T06:07:00.000Z</published>
     <updated>2024-01-17T08:30:36.761Z</updated>
     
@@ -510,23 +510,23 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>Let&#39;s Go and Watch the Sunrise (走，一起去看日出吧)</title>
-    <link href="https://eng.hcy.asia/05-07-seesunrise/"/>
-    <id>https://eng.hcy.asia/05-07-seesunrise/</id>
+    <link href="https://huachenyu.news/05-07-seesunrise/"/>
+    <id>https://huachenyu.news/05-07-seesunrise/</id>
     <published>2022-12-20T14:07:00.000Z</published>
     <updated>2024-01-17T08:30:36.746Z</updated>
     
@@ -537,25 +537,25 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
-    <category term="Healing Trilogy 2021" scheme="https://eng.hcy.asia/tags/trilogy2021/"/>
+    <category term="Healing Trilogy 2021" scheme="https://huachenyu.news/tags/trilogy2021/"/>
     
   </entry>
   
   <entry>
     <title>We Meet When Flowers Fade (花落时相遇)</title>
-    <link href="https://eng.hcy.asia/05-06-flowerdrop/"/>
-    <id>https://eng.hcy.asia/05-06-flowerdrop/</id>
+    <link href="https://huachenyu.news/05-06-flowerdrop/"/>
+    <id>https://huachenyu.news/05-06-flowerdrop/</id>
     <published>2022-12-20T14:00:00.000Z</published>
     <updated>2024-01-17T08:30:36.739Z</updated>
     
@@ -566,20 +566,20 @@
     
     
     
-    <category term="② Music Works" scheme="https://eng.hcy.asia/categories/music/"/>
+    <category term="② Music Works" scheme="https://huachenyu.news/categories/music/"/>
     
     
-    <category term="Compose" scheme="https://eng.hcy.asia/tags/compose/"/>
+    <category term="Compose" scheme="https://huachenyu.news/tags/compose/"/>
     
-    <category term="Lyrics Translation" scheme="https://eng.hcy.asia/tags/lyrictranslation/"/>
+    <category term="Lyrics Translation" scheme="https://huachenyu.news/tags/lyrictranslation/"/>
     
-    <category term="Symphony" scheme="https://eng.hcy.asia/tags/symphony/"/>
+    <category term="Symphony" scheme="https://huachenyu.news/tags/symphony/"/>
     
-    <category term="Arrange" scheme="https://eng.hcy.asia/tags/arrange/"/>
+    <category term="Arrange" scheme="https://huachenyu.news/tags/arrange/"/>
     
-    <category term="Album05-Hope Forgets" scheme="https://eng.hcy.asia/tags/album05/"/>
+    <category term="Album05-Hope Forgets" scheme="https://huachenyu.news/tags/album05/"/>
     
-    <category term="Healing Trilogy 2021" scheme="https://eng.hcy.asia/tags/trilogy2021/"/>
+    <category term="Healing Trilogy 2021" scheme="https://huachenyu.news/tags/trilogy2021/"/>
     
   </entry>
   
