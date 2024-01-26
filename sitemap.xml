@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/actor-movie-quasimodo/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/01-05-bomb/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/01-06-travel/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/01-10-pillow/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/01-08-immortal/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/01-09-quasimodo/</loc>
+    
+    <lastmod>2024-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/variety-hellosaturday/</loc>
     
     <lastmod>2024-01-26</lastmod>
@@ -518,15 +572,6 @@
     <loc>https://huachenyu.news/koerare/</loc>
     
     <lastmod>2024-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/01-09-quasimodo/</loc>
-    
-    <lastmod>2024-01-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1055,42 +1100,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/01-05-bomb/</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/01-10-pillow/</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/01-08-immortal/</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/01-06-travel/</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/media/marsconcert2023/birdnest/</loc>
     
     <lastmod>2023-12-15</lastmod>
@@ -1435,6 +1444,13 @@
   
   <url>
     <loc>https://huachenyu.news/tags/ssbx/</loc>
+    <lastmod>2024-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/tags/movie/</loc>
     <lastmod>2024-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
