@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huachenyu.news/actor-documentary-marsconcert/</loc>
-    
-    <lastmod>2024-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/actor-documentary-whoami/</loc>
-    
-    <lastmod>2024-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/02-03-mayfly/</loc>
     
     <lastmod>2024-01-29</lastmod>
@@ -30,6 +12,24 @@
   
   <url>
     <loc>https://huachenyu.news/actor-iami/</loc>
+    
+    <lastmod>2024-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/actor-documentary-marsconcert/</loc>
+    
+    <lastmod>2024-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/actor-documentary-whoami/</loc>
     
     <lastmod>2024-01-29</lastmod>
     
