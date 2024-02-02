@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/ace4-jigong/</loc>
+    
+    <lastmod>2024-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/acevsace4/</loc>
+    
+    <lastmod>2024-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/liveevent2024/</loc>
     
     <lastmod>2024-02-01</lastmod>
@@ -57,15 +75,6 @@
   
   <url>
     <loc>https://huachenyu.news/acevsaceop/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/acevsace4/</loc>
     
     <lastmod>2024-02-01</lastmod>
     
@@ -1337,14 +1346,14 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/lyrictranslation/</loc>
+    <loc>https://huachenyu.news/tags/singer2018/</loc>
     <lastmod>2024-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/singer2018/</loc>
+    <loc>https://huachenyu.news/tags/lyrictranslation/</loc>
     <lastmod>2024-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
