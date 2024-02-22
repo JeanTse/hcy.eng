@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/cm-wargod/</loc>
+    
+    <lastmod>2024-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/cm-bigscene/</loc>
+    
+    <lastmod>2024-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/esports-GFP/</loc>
+    
+    <lastmod>2024-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/variety-daydayup/</loc>
     
     <lastmod>2024-02-22</lastmod>
@@ -57,15 +84,6 @@
   
   <url>
     <loc>https://huachenyu.news/cv-gameforpeacepv/</loc>
-    
-    <lastmod>2024-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/esports-GFP/</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -1984,6 +2002,13 @@
   
   <url>
     <loc>https://huachenyu.news/categories/live/marsconcert/</loc>
+    <lastmod>2024-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/categories/commercial/cm/</loc>
     <lastmod>2024-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
