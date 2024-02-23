@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/cm-bigscene/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/cm-sprite/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/cm-sprite2021/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/cm-6god-1/</loc>
     
     <lastmod>2024-02-23</lastmod>
@@ -30,15 +57,6 @@
   
   <url>
     <loc>https://huachenyu.news/cm-wargod/</loc>
-    
-    <lastmod>2024-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/cm-bigscene/</loc>
     
     <lastmod>2024-02-22</lastmod>
     
@@ -1595,7 +1613,7 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/media/marsconcert2023/changsha/</loc>
+    <loc>https://huachenyu.news/media/marsconcert2023/chengdu/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -1604,7 +1622,7 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/media/marsconcert2023/chengdu/</loc>
+    <loc>https://huachenyu.news/media/marsconcert2023/changsha/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -1622,7 +1640,7 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/media/marsconcert2023/nanjing/</loc>
+    <loc>https://huachenyu.news/media/marsconcert2023/shanghai/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -1631,7 +1649,7 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/media/marsconcert2023/shanghai/</loc>
+    <loc>https://huachenyu.news/media/marsconcert2023/nanjing/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -1697,14 +1715,14 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/singer2018/</loc>
+    <loc>https://huachenyu.news/tags/lyrictranslation/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/lyrictranslation/</loc>
+    <loc>https://huachenyu.news/tags/singer2018/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1732,7 +1750,7 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/CM/</loc>
+    <loc>https://huachenyu.news/tags/featsong/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1746,14 +1764,14 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/acapella/</loc>
+    <loc>https://huachenyu.news/tags/CM/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/featsong/</loc>
+    <loc>https://huachenyu.news/tags/acapella/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1781,13 +1799,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/thenext/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/tags/arrange/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1803,6 +1814,13 @@
   
   <url>
     <loc>https://huachenyu.news/tags/album04/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/tags/thenext/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1865,13 +1883,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/movie/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/tags/guest/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1879,7 +1890,21 @@
   </url>
   
   <url>
+    <loc>https://huachenyu.news/tags/movie/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/tags/esports/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/tags/cv/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1914,20 +1939,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/tags/springfolksong/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/tags/cv/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/tags/hisong/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1936,6 +1947,13 @@
   
   <url>
     <loc>https://huachenyu.news/tags/singwithme/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/tags/springfolksong/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1979,13 +1997,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/categories/tvshow/talent/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/categories/commercial/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -2000,6 +2011,13 @@
   </url>
   
   <url>
+    <loc>https://huachenyu.news/categories/tvshow/talent/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/categories/hcy/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -2008,6 +2026,13 @@
   
   <url>
     <loc>https://huachenyu.news/categories/live/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/categories/commercial/cm/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2029,13 +2054,6 @@
   
   <url>
     <loc>https://huachenyu.news/categories/live/marsconcert/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/categories/commercial/cm/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
