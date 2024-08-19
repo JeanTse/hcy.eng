@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/marsconcert2024/</loc>
+    
+    <lastmod>2024-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/monster/</loc>
+    
+    <lastmod>2024-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/media/marsconcert2024/all/</loc>
     
     <lastmod>2024-08-19</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/monster/</loc>
-    
-    <lastmod>2024-08-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/media/marsconcert2024/nanchang/</loc>
     
     <lastmod>2024-08-14</lastmod>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>https://huachenyu.news/news/</loc>
-    
-    <lastmod>2024-08-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/marsconcert2024/</loc>
     
     <lastmod>2024-08-14</lastmod>
     
