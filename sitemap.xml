@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/marsconcert2024/</loc>
+    
+    <lastmod>2024-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/magazine20/</loc>
+    
+    <lastmod>2024-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/hcy-fan/</loc>
+    
+    <lastmod>2024-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/hcy-8g/</loc>
     
     <lastmod>2024-11-13</lastmod>
@@ -30,15 +57,6 @@
   
   <url>
     <loc>https://huachenyu.news/news/</loc>
-    
-    <lastmod>2024-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/marsconcert2024/</loc>
     
     <lastmod>2024-11-13</lastmod>
     
@@ -245,15 +263,6 @@
   </url>
   
   <url>
-    <loc>https://huachenyu.news/hcy-fan/</loc>
-    
-    <lastmod>2024-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://huachenyu.news/hcy-bio/</loc>
     
     <lastmod>2024-08-15</lastmod>
@@ -399,15 +408,6 @@
   
   <url>
     <loc>https://huachenyu.news/magazine19/</loc>
-    
-    <lastmod>2024-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/magazine20/</loc>
     
     <lastmod>2024-03-15</lastmod>
     
